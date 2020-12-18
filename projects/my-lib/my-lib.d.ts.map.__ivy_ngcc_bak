@@ -1,0 +1,1 @@
+{"version":3,"file":"my-lib.d.ts","sources":["my-lib.d.ts"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","sourcesContent":["/**\n * Generated bundle index. Do not edit.\n */\nexport * from './public-api';\nexport { MyTheButtonComponent as ɵa } from './lib/the-button/the-button.component';\n"]}

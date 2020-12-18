@@ -18,7 +18,11 @@
     ],
     "paths": {
       "libs": [
-        "projects/libs"
+        "projects/libs/index.ts"
+      ],
+      "my-lib/*": [
+        "projects/my-lib/my-lib",
+        "projects/my-lib"
       ]
     }
   },

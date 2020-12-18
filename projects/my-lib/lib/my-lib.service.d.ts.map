@@ -1,0 +1,1 @@
+{"version":3,"file":"my-lib.service.d.ts","sources":["my-lib.service.d.ts"],"names":[],"mappings":";AAAA;AACA;;AACA","sourcesContent":["export declare class MyLibService {\n    constructor();\n}\n"]}
