@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/core": "^11.0.5",
+    "rxjs": "^6.6.3"
+  }
 }
